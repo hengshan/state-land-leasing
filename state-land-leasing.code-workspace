@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\user\\.conda\\envs\\mycapstone\\python.exe"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+		
+			{
+				"name": "Python: Current File",
+				"type": "python",
+				"request": "launch",
+				"program": "${file}",
+				"console": "integratedTerminal"
+			}
+		]
+	}
+}
